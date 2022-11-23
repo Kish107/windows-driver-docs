@@ -18,7 +18,7 @@ This network driver design guide documents the following Network Driver Interfac
 
 -   NDIS 6.40, which is supported on Windows 8.1, Windows Server 2012 R2, and later versions of Windows. NDIS 6.30 includes support for Network Direct Kernel Provider Interface (NDKPI) 1.12.
 
-    For more information about NDIS 6.30, see [Introduction to NDIS 6.40](introduction-to-ndis-6-40.md).
+    For more information about NDIS 6.40, see [Introduction to NDIS 6.40](introduction-to-ndis-6-40.md).
 
 -   NDIS 6.30, which is supported on Windows 8, Windows Server 2012, and later versions of Windows. NDIS 6.30 includes support for single root/I/O virtualization (SR-IOV), Hyper-V extensible switch, Network Direct Kernel Provider Interface (NDKPI) 1.1, and other services.
 
